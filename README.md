@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Welcome!👋 </h1>
 
 ###
 
-<p align="left">My name is João Pedro and I am a Software Developer, from SP, Brazil 🇧🇷</p>
+<p align="left">My name is João Pedro and I am a Software Developer, SP, Brazil 🇧🇷</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning React JS and API development with Node.js<br>🎯 Goals: To build a solid understanding of programming and apply my skills to grow in my professional career</p>
+<p align="left">📚 I'm currently learning React JS and API development with Node.js<br>🎯 Goals: To build a solid understanding of programming and apply my skills to grow in my professional career</p>
 
 ###
 
