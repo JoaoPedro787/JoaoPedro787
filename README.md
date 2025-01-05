@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning React JS and API development with Node.js<br>🎯 Goals: To build a solid understanding of programming and apply my skills to grow in my professional career</p>
+<p align="left">🎓 I’m studying Analysis and Systems Development at SENAI Roberto Mange, Campinas<br>🎯 Goals: To build a solid understanding of programming and apply my skills to grow in my professional career</p>
 
 ###
 
