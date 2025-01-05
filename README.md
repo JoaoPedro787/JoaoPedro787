@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">🎓 I’m studying Analysis and Systems Development at SENAI Roberto Mange, Campinas<br><br>🎯 Goals: To build a solid understanding of programming and apply my skills to grow in my professional career</h3>
+<p align="left">🎓 I’m studying Analysis and Systems Development at SENAI Roberto Mange, Campinas<br><br>🎯 Goals: To build a solid understanding of programming and apply my skills to grow in my professional career</p>
 
 ###
 
