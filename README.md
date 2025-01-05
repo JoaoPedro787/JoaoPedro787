@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is João Pedro and I am a Software Developer, SP, Brazil 🇧🇷</p>
+<p align="left">My name is João Pedro and I am a Software Development Student. SP, Brazil 🇧🇷</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 I’m studying Analysis and Systems Development at SENAI Roberto Mange, Campinas<br>🎯 Goals: To build a solid understanding of programming and apply my skills to grow in my professional career</p>
+<h3 align="left">🎓 I’m studying Analysis and Systems Development at SENAI Roberto Mange, Campinas<br><br>🎯 Goals: To build a solid understanding of programming and apply my skills to grow in my professional career</h3>
 
 ###
 
