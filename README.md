@@ -30,6 +30,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
+## 👇 Current project
+
+I'm currently working on [TisaStore](https://github.com/JoaoPedro787/TisaStore)
+
 ###
 
 <h2 align="left">My Status</h2>
