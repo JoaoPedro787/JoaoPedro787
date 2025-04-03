@@ -1,59 +1,26 @@
-<h1 align="left">Welcome! 👋 </h1>
+## About Me
 
-###
+Web Developer Student. SP, Brazil 🇧🇷
 
-<p align="left">My name is João Pedro and I am a Software Development Student. SP, Brazil 🇧🇷</p>
+## My Skills
 
-###
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
+<img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white"> 
+<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
+<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> 
+<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"> 
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> 
 
-<h2 align="left">About me</h2>
+## GitHub Stats
 
-###
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/?username=brandonc123&theme=dark&show_icons=true&count_private=true">
 
-<p align="left">🎓 I’m studying Software Analysis and Development at SENAI Roberto Mange, Campinas<br><br>🎯 Goals: To build a solid understanding of programming and apply my skills to grow in my professional career</p>
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=brandonc123&theme=dark"></td><td width="50%" align="center">
+<img align="middle" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=brandonc123&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-###
+## Connect with me
 
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
-
-## Current project 👇 
-
-I'm currently working on [TisaStore](https://github.com/JoaoPedro787/TisaStore)
-
-###
-
-<h2 align="left">My Status</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoPedro787&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoPedro787&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-oliveira-de-paula-8427b6301/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/jaooo7788/profilecard/?igsh=MXdxcXh1dTBnNmthbA==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/joaopedro787/" target="_blank">João Pedro</a> Email: joaopedro.oliveirapaula@gmail.com</p>
