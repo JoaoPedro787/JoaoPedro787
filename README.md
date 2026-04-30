@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at Fatec Campinas<br>🌱 I’m currently learning software engineering techniques<br>⚡ I like web development
+🔭 I’m currently studying at Fatec Campinas<br>🌱 I’m learning software engineering techniques<br>⚡ I like web development
 
 
 ## 🌐 Socials:
