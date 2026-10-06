@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,11&height=180&section=header&text=João%20Pedro&fontSize=42&fontAlignY=35&animation=fadeIn&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descAlignY=60&descAlign=50" width="100%" alt="Header" />
   <!-- Animated Typing Hero Banner -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Jo%C3%A3o+Pedro+%F0%9F%91%8B;FATEC+Campinas+%F0%9F%8E%93;AI+Resident+%40+PUC-Campinas+%26+Instituto+Eldorado+%F0%9F%A4%96;Full-Stack+%26+Mobile+Developer+%E2%9A%A1;Machine+Learning+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+Next.js;Building+intelligent+%26+scalable+solutions+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Jo%C3%A3o+Pedro+%F0%9F%91%8B;FATEC+Campinas+%F0%9F%8E%93;AI+Resident+at+PUC-Campinas+%26+Instituto+Eldorado+%F0%9F%A4%96;Full-Stack+%26+Mobile+Developer+%E2%9A%A1;Machine+Learning+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+Next.js;Building+intelligent+%26+scalable+solutions+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <br/>
